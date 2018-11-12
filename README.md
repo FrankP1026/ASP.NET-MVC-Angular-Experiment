@@ -1,6 +1,6 @@
 # Angular + ASP.NET MVC Experiment
 
-A boilerplate of simple website platform built using ASP.NET MVC and Angular 2
+A boilerplate of simple website boilerplate built using ASP.NET MVC and Angular 2
 
 Functions ready to use: user login, Entity Framework (including ORM and migration), Angular 2
 
